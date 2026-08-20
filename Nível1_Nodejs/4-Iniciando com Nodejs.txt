@@ -1,0 +1,19 @@
+(1) De acordo com a aula, como habilitamos o uso das importações utilizando o ESModules?
+   1. Alterando a extensão do arquivo para .cjs
+   2. Adicionando no arquivo package.json a propriedade "type" com o valor de "module"  [RESPOSTA CORRETA]
+   3. Definindo no arquivo jsconfig.json a propriedade "type" com o valor de "module"
+   4. Nenhuma das anteriores
+
+(2) O prefixo node: na importação de um módulo serve para informar que esse módulo é interno do Node.js:
+   1. Verdadeiro  [RESPOSTA CORRETA]
+   2. Falso
+
+(3) Para que serve o módulo http do Node.js?
+   1. Unicamente para lidar com conexão do tipo WebSocket
+   2. Para criar e lidar com as requisições HTTP em uma porta específica  [RESPOSTA CORRETA]
+   3. Realizar requisições HTTP para outros endpoints
+   4. Nenhuma das anteriores
+
+(4) Sobre o parâmetro request é possível afirmar que: Através desse objeto é possível obter todas as informações presente na requisição, como dados enviados em JSON, parâmetros de rota nomeados e não nomeados, entre outros.
+   1. Verdadeiro  [RESPOSTA CORRETA]
+   2. Falso

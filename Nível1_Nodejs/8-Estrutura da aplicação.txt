@@ -1,0 +1,30 @@
+Questão 1
+Marque a alternativa correta sobre rotas HTTP:
+Resposta: São portas de entradas para executar diferente ações na aplicação
+
+Questão 2
+É correto afirmar sobre métodos HTTP: São responsáveis por indicar a ação a ser executada para um dado recurso (rota)
+Resposta: Verdadeiro
+
+Questão 3
+Sobre os 5 métodos HTTP mais comuns (GET, POST, PUT, PATCH e DELETE), marque a alternativa correta:
+Resposta: O método GET é utilizado para buscar dados
+
+Questão 4
+Qual é o método de requisição HTTP usado para enviar dados a fim de criar um recurso na aplicação?
+Resposta: POST
+
+Questão 5
+Qual a resposta que melhor define os Headers em uma requisição HTTP?
+Resposta: Metadados da requisição HTTP que podem incluir informações adicionais da requisição e resposta
+
+Questão 6
+Qual é o Header (Cabeçalho) HTTP usado para especificar o tipo de conteúdo da resposta?
+Resposta: Content-Type
+
+Questão 7
+[não capturada nos prints enviados]
+
+Questão 8
+Qual é o código de status HTTP usado para indicar que o servidor não pode encontrar o recurso solicitado?
+Resposta: 404

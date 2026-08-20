@@ -1,0 +1,28 @@
+{
+  "name": "ciclo-growup-cesar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch \"Nível1_Nodejs/10-Criando stream de leitura.ts\"",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wqiluc/Ciclo-GrowUp-Cesar.git"
+  },
+  "keywords": [],
+  "author": "Lucas",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/wqiluc/Ciclo-GrowUp-Cesar/issues"
+  },
+  "homepage": "https://github.com/wqiluc/Ciclo-GrowUp-Cesar#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "@types/node": "^26.2.0"
+  }
+}
