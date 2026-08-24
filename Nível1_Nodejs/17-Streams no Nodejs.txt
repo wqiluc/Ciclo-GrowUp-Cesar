@@ -1,0 +1,27 @@
+Questão 1
+O que são Streams?
+Resposta: Mecanismos para ler e escrever dados de forma assíncrona, controlada e em partes
+
+Questão 2
+O que o método .pipe faz quando é chamado em uma Stream?
+Resposta: Encaminha os dados provindos de uma stream para outra
+
+Questão 3
+O que são Buffers no Node.js?
+Resposta: Estruturas de dados que representa informações binárias
+
+Questão 4
+Qual é o método usado para criar um Buffer a partir de uma string no Node.js?
+Resposta: Buffer.from()
+
+Questão 5
+O que são Chunks em Streams no Node.js?
+Resposta: Pedaços de dados que são lidos e escritos em uma stream de forma assíncrona
+
+Questão 6
+O que são middlewares?
+Resposta: Funções que interceptam e manipulam a requisição e a resposta de uma rota
+
+Questão 7
+É possível definir middlewares globais (que são executados em TODAS rotas da aplicação)?
+Resposta: Sim
