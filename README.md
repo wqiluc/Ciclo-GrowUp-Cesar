@@ -37,6 +37,8 @@ ao longo de 9 níveis, com certificado ao final<br><br>
   <img src="https://img.shields.io/badge/-Markdown-111827?style=flat-square&logo=markdown&logoColor=white"/> <br>
   <img src="https://img.shields.io/badge/-Git-111827?style=flat-square&logo=git&logoColor=F05032"/>
   <img src="https://img.shields.io/badge/-GitHub-111827?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-GitHub_Desktop-111827?style=flat-square&logo=github&logoColor=purple"/>
+  
 </p>
 
 <h2 align="center">Arquitetura do Repositório 🏛️</h2>
