@@ -1,0 +1,19 @@
+API de transações financeiras — antes de codar, define-se o que a
+aplicação faz (RF), as regras que ela precisa respeitar (RN) e as
+condições não-funcionais (RNF). Mesmo formato usado no desafio "Daily
+Diet API".
+
+RF (Requisitos Funcionais)
+- O usuário deve poder criar uma nova transação
+- O usuário deve poder obter um resumo da sua conta
+- O usuário deve poder listar todas as transações já efetuadas
+- O usuário deve poder visualizar uma transação única
+
+RN (Regras de Negócio)
+- A transação pode ser do tipo crédito, que soma ao valor total, ou
+  débito, que subtrai
+- Deve ser possível identificar o usuário entre requisições
+- O usuário só pode visualizar transações que ele mesmo criou
+
+RNF (Requisitos Não-Funcionais)
+- Identificação do usuário via cookie (session_id), sem login/senha

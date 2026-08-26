@@ -1,0 +1,79 @@
+==================================================
+AVALIAÇÃO: CRIANDO API REST COM NODE.JS
+==================================================
+
+Questão 1: TypeScript pode ser considerado uma linguagem de programação?
+Status: CORRETA
+Resposta: Sim, apesar de antes ser considerado apenas um superset, com a presença de runtimes (Deno e Bun) que executam o TypeScript nativamente, ele pode ser considerado uma linguagem.
+
+--------------------------------------------------
+
+Questão 2: Qual é a principal vantagem do TypeScript em relação ao JavaScript?
+Status: CORRETA
+Resposta: TypeScript fornece tipagem estática, melhorando a qualidade do código e facilitando a manutenção
+
+--------------------------------------------------
+
+Questão 3: Qual é a principal vantagem de usar um query builder em vez de um driver nativo no Node.js?
+Status: CORRETA
+Resposta: Um query builder é mais fácil de usar e oferece uma API mais intuitiva
+
+--------------------------------------------------
+
+Questão 4: O que são migrations?
+Status: CORRETA
+Resposta: São scripts que modificam o esquema do banco de dados
+
+--------------------------------------------------
+
+Questão 5: Por que é importante usar migrations ao invés de modificar diretamente o esquema do banco de dados?
+Status: CORRETA
+Resposta: Todas as opções acima
+
+--------------------------------------------------
+
+Questão 6: O que são variáveis ambiente?
+Status: CORRETA
+Resposta: Variáveis que só existem em determinado ambiente, como o desenvolvimento ou produção
+
+--------------------------------------------------
+
+Questão 7: Em que situações é importante usar variáveis ambiente?
+Status: CORRETA
+Resposta correta: Alternativa A e B estão corretas
+
+--------------------------------------------------
+
+Questão 8: O que é o preHandler no Fastify?
+Status: CORRETA
+Resposta: Uma função que é executada antes de a rota
+
+--------------------------------------------------
+
+Questão 9: Os contextos dentro de um plugin no Fastify são isolados entre eles.
+Status: CORRETA
+Resposta: Verdadeiro
+
+--------------------------------------------------
+
+Questão 10: O que são Hooks no contexto do Fastify?
+Status: CORRETA
+Resposta: Funções que são executadas de acordo ao hook configurado.
+
+--------------------------------------------------
+
+Questão 11: O que é a pirâmide de testes?
+Status: CORRETA
+Resposta: Uma representação gráfica das quantidades de diferentes tipos de testes na aplicação
+
+--------------------------------------------------
+
+Questão 12: Qual é a finalidade dos testes e2e (end-to-end)?
+Status: CORRETA
+Resposta: Testar o sistema completo de uma só vez, simulando a interação do usuário
+
+--------------------------------------------------
+
+Questão 13: Qual é o objetivo do supertest no contexto de testes e2e?
+Status: CORRETA
+Resposta: Realizar requisições HTTP para uma aplicação e validar suas respostas
