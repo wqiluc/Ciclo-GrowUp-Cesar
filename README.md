@@ -9,8 +9,8 @@ RocketSeat + Porto Digital — Formação IA para Devs
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Em_Andamento-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/Progresso-44%2F251_aulas-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/Módulo_Atual-Nível_2_%7C_Aula_44-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Progresso-55%2F251_aulas-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Módulo_Atual-Nível_4-111827?style=flat-square" />
   <img src="https://img.shields.io/badge/Versão-1.0.0-111827?style=flat-square" />
   <img src="https://img.shields.io/badge/Licença-MIT-111827?style=flat-square" />
 </p>
@@ -48,7 +48,7 @@ Ciclo-GrowUp-Cesar/
 ├── img/
 │   └── RocketSeat Logo.jpeg <img src="https://cdn-icons-png.flaticon.com/512/136/136524.png" height="18"/>
 ├── Nível1_Nodejs <img src="https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=nodedotjs&logoColor=339933" height="18"/><img src="https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=3178C6" height="18"/>/
-├── Nível2_Rotas_e_HTTP <img src="https://img.shields.io/badge/Fastify-111827?style=flat-square&logoColor=white" height="18"/><img src="https://img.shields.io/badge/Knex-111827?style=flat-square&logoColor=white" height="18"/> <img src="https://img.shields.io/badge/Status-Em_Andamento-111827?style=flat-square" height="18"/>/
+├── Nível2_Rotas_e_HTTP <img src="https://img.shields.io/badge/Fastify-111827?style=flat-square&logoColor=white" height="18"/><img src="https://img.shields.io/badge/Knex-111827?style=flat-square&logoColor=white" height="18"/> <img src="https://img.shields.io/badge/Status-Concluído-111827?style=flat-square" height="18"/>/
 |
 ├── LICENSE <img src="https://img.shields.io/badge/License-111827?style=flat-square&logo=mit&logoColor=white" height="18"/>
 ├── package.json <img src="https://img.shields.io/badge/npm-111827?style=flat-square&logo=npm&logoColor=CB3837" height="18"/><img src="https://img.shields.io/badge/JSON-111827?style=flat-square&logo=json&logoColor=white" height="18"/>
@@ -83,7 +83,7 @@ Status local: <b>Cocluído ✅</b> — arquivos das aulas em [Nível1_Nodejs](N�
 | Daily Diet API | Desafio prático (opcional) | - | - |
 | Criando API REST com Node.js | Quiz avaliativo (obrigatório) | 13 questões | - |
 
-Status local: <b>em andamento</b> — arquivos das aulas em [Nível2_Rotas_e_HTTP](Nível2_Rotas_e_HTTP).
+Status local: <b>Concluído ✅</b> — arquivos das aulas em [Nível2_Rotas_e_HTTP](Nível2_Rotas_e_HTTP).
 
 **Destaque:** <img src="https://img.shields.io/badge/Fastify-111827?style=flat-square&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=3178C6"/>
@@ -99,6 +99,8 @@ Status local: <b>em andamento</b> — arquivos das aulas em [Nível2_Rotas_e_HTT
 | Desenvolvimento Avançado com Flask | Módulo | 19 aulas | 2h57min |
 | Quiz — Desenvolvimento Avançado com Flask | Quiz avaliativo (obrigatório) | 8 questões | - |
 | Desafio Prático — Desenvolvimento Avançado com Flask | Desafio prático (opcional) | - | - |
+
+Status local: <b>Em andamento . . .</b>
 
 **Destaque:** <img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=3776AB"/>
 <img src="https://img.shields.io/badge/Flask-111827?style=flat-square&logo=flask&logoColor=white"/>
