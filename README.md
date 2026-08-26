@@ -9,7 +9,8 @@ RocketSeat + Porto Digital — Formação IA para Devs
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Em_Andamento-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/Progresso-10%2F251_aulas-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Progresso-44%2F251_aulas-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Módulo_Atual-Nível_2_%7C_Aula_44-111827?style=flat-square" />
   <img src="https://img.shields.io/badge/Versão-1.0.0-111827?style=flat-square" />
   <img src="https://img.shields.io/badge/Licença-MIT-111827?style=flat-square" />
 </p>
@@ -47,6 +48,7 @@ Ciclo-GrowUp-Cesar/
 ├── img/
 │   └── RocketSeat Logo.jpeg <img src="https://cdn-icons-png.flaticon.com/512/136/136524.png" height="18"/>
 ├── Nível1_Nodejs <img src="https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=nodedotjs&logoColor=339933" height="18"/><img src="https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=3178C6" height="18"/>/
+├── Nível2_Rotas_e_HTTP <img src="https://img.shields.io/badge/Fastify-111827?style=flat-square&logoColor=white" height="18"/><img src="https://img.shields.io/badge/Knex-111827?style=flat-square&logoColor=white" height="18"/> <img src="https://img.shields.io/badge/Status-Em_Andamento-111827?style=flat-square" height="18"/>/
 |
 ├── LICENSE <img src="https://img.shields.io/badge/License-111827?style=flat-square&logo=mit&logoColor=white" height="18"/>
 ├── package.json <img src="https://img.shields.io/badge/npm-111827?style=flat-square&logo=npm&logoColor=CB3837" height="18"/><img src="https://img.shields.io/badge/JSON-111827?style=flat-square&logo=json&logoColor=white" height="18"/>
@@ -67,7 +69,7 @@ Plano de estudo oficial (RocketSeat + Porto Digital) — 9 níveis de conteúdo 
 | CRUD de Tarefas | Desafio prático (opcional) | - | - |
 | Conceitos essenciais do Node.js | Quiz avaliativo (obrigatório) | 10 questões | - |
 
-Status local: em andamento — arquivos das aulas em [Nível1_Nodejs](Nível1_Nodejs).
+Status local: <b>Cocluído ✅</b> — arquivos das aulas em [Nível1_Nodejs](Nível1_Nodejs).
 
 **Destaque:** <img src="https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=nodedotjs&logoColor=339933"/>
 <img src="https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=3178C6"/>
@@ -80,6 +82,8 @@ Status local: em andamento — arquivos das aulas em [Nível1_Nodejs](Nível1_No
 | Criando API REST com Node.js | Módulo | 30 aulas | 4h19min |
 | Daily Diet API | Desafio prático (opcional) | - | - |
 | Criando API REST com Node.js | Quiz avaliativo (obrigatório) | 13 questões | - |
+
+Status local: <b>em andamento</b> — arquivos das aulas em [Nível2_Rotas_e_HTTP](Nível2_Rotas_e_HTTP).
 
 **Destaque:** <img src="https://img.shields.io/badge/Fastify-111827?style=flat-square&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=3178C6"/>
