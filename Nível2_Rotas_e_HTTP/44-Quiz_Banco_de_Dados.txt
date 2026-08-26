@@ -1,0 +1,11 @@
+1. O que são variáveis ambiente?
+Resposta: Variáveis que só existem em determinado ambiente, como o desenvolvimento ou produção
+
+2. Em que situações é importante usar variáveis ambiente?
+Resposta: Alternativa A e B estão corretas (Quando há informações sensíveis, como senhas ou tokens, que precisam ser mantidas em segredo / Quando há configurações que precisam ser alteradas entre diferentes ambientes sem modificar o código-fonte)
+
+3. Como é possível acessar uma variável ambiente em um programa escrito em JavaScript?
+Resposta: Usando a variável global process.env
+
+4. Qual é o principal objetivo da biblioteca Zod?
+Resposta: Validar tipos e formatos de dados

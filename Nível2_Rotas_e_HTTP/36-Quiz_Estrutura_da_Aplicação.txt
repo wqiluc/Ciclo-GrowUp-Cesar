@@ -1,0 +1,17 @@
+1. O que é o Fastify?
+Resposta: Um microframework web rápido e minimalista para Node.js
+
+2. TypeScript pode ser considerado uma linguagem de programação?
+Resposta: Sim, apesar de antes ser considerado apenas um superset, 
+com a presença de runtimes (Deno e Bun) que executam o TypeScript nativamente, 
+ele pode ser considerado uma linguagem.
+
+3. Qual é a principal vantagem do TypeScript em relação ao JavaScript?
+Resposta: TypeScript fornece tipagem estática, melhorando a qualidade do código e 
+facilitando a manutenção
+
+4. O que é uma "interface" em TypeScript?
+Resposta: Um conjunto de tipos que especificam as propriedades e métodos que um objeto deve ter
+
+5. É possível usar TypeScript com o Fastify?
+Resposta: Sim, o Fastify tem suporte nativo ao TypeScript
