@@ -9,8 +9,8 @@ RocketSeat + Porto Digital — Formação IA para Devs
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Em_Andamento-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/Progresso-55%2F251_aulas-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/Módulo_Atual-Nível_4-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Progresso-81%2F251_aulas-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Módulo_Atual-Nível_3-111827?style=flat-square" />
   <img src="https://img.shields.io/badge/Versão-1.0.0-111827?style=flat-square" />
   <img src="https://img.shields.io/badge/Licença-MIT-111827?style=flat-square" />
 </p>
@@ -45,10 +45,11 @@ ao longo de 9 níveis, com certificado ao final<br><br>
 <h2 align="center">Arquitetura do Repositório 🏛️</h2>
 <pre>
 Ciclo-GrowUp-Cesar/
-├── img/
-│   └── RocketSeat Logo.jpeg <img src="https://cdn-icons-png.flaticon.com/512/136/136524.png" height="18"/>
+├── img<img src="https://cdn-icons-png.flaticon.com/512/136/136524.png" height="18"/>/
+|
 ├── Nível1_Nodejs <img src="https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=nodedotjs&logoColor=339933" height="18"/><img src="https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=3178C6" height="18"/>/
-├── Nível2_Rotas_e_HTTP <img src="https://img.shields.io/badge/Fastify-111827?style=flat-square&logoColor=white" height="18"/><img src="https://img.shields.io/badge/Knex-111827?style=flat-square&logoColor=white" height="18"/> <img src="https://img.shields.io/badge/Status-Concluído-111827?style=flat-square" height="18"/>/
+├── Nível2_Rotas_e_HTTP <img src="https://img.shields.io/badge/Fastify-111827?style=flat-square&logoColor=white" height="18"/><img src="https://img.shields.io/badge/Knex-111827?style=flat-square&logoColor=white" height="18"/>/
+├── Nível3_Flask <img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=3776AB" height="18"/><img src="https://img.shields.io/badge/Flask-111827?style=flat-square&logo=flask&logoColor=white" height="18"/>/
 |
 ├── LICENSE <img src="https://img.shields.io/badge/License-111827?style=flat-square&logo=mit&logoColor=white" height="18"/>
 ├── package.json <img src="https://img.shields.io/badge/npm-111827?style=flat-square&logo=npm&logoColor=CB3837" height="18"/><img src="https://img.shields.io/badge/JSON-111827?style=flat-square&logo=json&logoColor=white" height="18"/>
