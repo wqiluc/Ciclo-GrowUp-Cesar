@@ -9,8 +9,8 @@ RocketSeat + Porto Digital — Formação IA para Devs
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Em_Andamento-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/Progresso-81%2F251_aulas-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/Módulo_Atual-Nível_3-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Progresso-117%2F251_aulas-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Módulo_Atual-Nível_5-111827?style=flat-square" />
   <img src="https://img.shields.io/badge/Versão-1.0.0-111827?style=flat-square" />
   <img src="https://img.shields.io/badge/Licença-MIT-111827?style=flat-square" />
 </p>
@@ -101,7 +101,7 @@ Status local: <b>Concluído ✅</b> — arquivos das aulas em [Nível2_Rotas_e_H
 | Quiz — Desenvolvimento Avançado com Flask | Quiz avaliativo (obrigatório) | 8 questões | - |
 | Desafio Prático — Desenvolvimento Avançado com Flask | Desafio prático (opcional) | - | - |
 
-Status local: <b>Em andamento . . .</b>
+Status local: <b>Concluído ✅</b> — arquivos das aulas em [Nível3_Flask](Nível3_Flask).
 
 **Destaque:** <img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=3776AB"/>
 <img src="https://img.shields.io/badge/Flask-111827?style=flat-square&logo=flask&logoColor=white"/>
@@ -114,12 +114,16 @@ Status local: <b>Em andamento . . .</b>
 | Introdução à IA | Módulo | 17 aulas | 1h47min |
 | Quiz — Introdução à IA | Quiz avaliativo (obrigatório) | 5 questões | - |
 
+Status local: <b>Concluído ✅</b> — arquivos das aulas em [Nível4_IntroduçãoIA](Nível4_IntroduçãoIA).
+
 ### Nível 5 — Desenvolvendo Chatbots
 
 | Conteúdo | Tipo | Aulas / Questões | Carga Horária |
 | :--- | :--- | :---: | :---: |
 | Desenvolvendo Chatbots | Módulo | 32 aulas | 2h25min |
 | Quiz — Desenvolvimento de Chatbots | Quiz avaliativo (obrigatório) | 6 questões | - |
+
+Status local: <b>Em andamento . . .</b>
 
 **Destaque:** Watson Assistant, Dialog Flow, GPT
 
