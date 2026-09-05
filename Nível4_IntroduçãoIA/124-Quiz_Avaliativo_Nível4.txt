@@ -1,0 +1,21 @@
+QUIZ - INTRODUÇÃO À IA (CICLO GROWUP CESAR)
+
+Questão 1:
+Pergunta: Dentre as opções abaixo qual delas melhor define "O que é Inteligência Artificial?"
+Resposta Correta: Uma tecnologia que busca aplicar matemática e ciência da computação para que as máquinas possam fazer, agir e aprender da mesma maneira que os humanos
+
+Questão 2:
+Pergunta: Considerando a definição de Strong AI ou AGI: "Inteligência Artificial Geral (AGI) é um campo de pesquisa teórica de IA que tenta criar softwares com inteligência semelhante à humana e capacidade de autoensino. O objetivo é que o software seja capaz de realizar tarefas para as quais não é necessariamente treinado ou desenvolvido". Quais das opções abaixo melhor se encaixa na definição acima
+Resposta Correta: Nenhuma das Alternativas acima
+
+Questão 3:
+Pergunta: Considerando uma sistema que busca prever o valor compra/venda de um imóvel. Qual das opções abaixo melhor se encaixa
+Resposta Correta: Classical ML
+
+Questão 4:
+Pergunta: O que é AI Applying e AI Creating
+Resposta Correta: AI Applying são modelos genéricos para consumir como serviço (SaaS) enquanto que AI Creating são modelos específicos construídos e treinados com dados próprios via programação
+
+Questão 5:
+Pergunta: O Chat-GPT se encaixa melhor em qual das seguintes áreas ou sub áreas de Machine Learning
+Resposta Correta: GAN’s
