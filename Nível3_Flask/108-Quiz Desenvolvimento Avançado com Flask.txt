@@ -1,0 +1,42 @@
+QUIZ: Desenvolvimento Avançado com Flask
+
+----------------------------------------------------------------------
+Questão 1
+Qual é o principal motivo para organizar os componentes em aplicações, conforme explicado em aula?
+R: Facilitar a leitura do código por outras pessoas.
+
+----------------------------------------------------------------------
+Questão 2
+Como o FlaskLogin facilita a implementação da autenticação de usuários em uma aplicação Flask?
+R: Fornecendo uma classe chamada UserMixing com métodos prontos para autenticação.
+
+----------------------------------------------------------------------
+Questão 3
+Qual é a função principal do método commit() mencionado no contexto do FlaskShell durante a criação do banco de dados?
+R: Executar os comandos no banco de dados, efetivando as alterações.
+
+----------------------------------------------------------------------
+Questão 4
+Qual é a principal funcionalidade método filter_by no contexto do Flask?
+R: Realizar a filtragem de resultados em consultas ao banco de dados com base em parâmetros específicos.
+
+----------------------------------------------------------------------
+Questão 5
+Qual limitação do SQLite foi destacada em aula em relação a sua aplicabilidade em determinados contextos?
+R: Limitação para aplicações que requerem grandes requisições e acesso simultâneo a muitos dados
+
+----------------------------------------------------------------------
+Questão 6
+Como a biblioteca Bcrypt contribui para a segurança das senhas armazenadas no banco de dados?
+R: Realiza a criptografia das senhas, gerando hashes seguros e protegendo contra acesso indevido.
+
+----------------------------------------------------------------------
+Questão 7
+O que é SQL Alchemy e qual é a sua principal função no projeto?
+R: Uma ferramenta de mapeamento objeto-relacional para conexão com banco de dados.
+
+----------------------------------------------------------------------
+Questão 8
+O que a biblioteca Flask Login não faz, conforme explicado em aula?
+R: Fornece uma maneira de registrar usuários.
+----------------------------------------------------------------------

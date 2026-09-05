@@ -21,9 +21,6 @@ def registrar_rotas(application):
         if (not username or not senha):
             return jsonify({"erro": "username e password são obrigatórios"}), 400
 
-        if (len(senha) < 6):
-            return jsonify({"erro": "password deve ter ao menos 6 caracteres"}), 400
-
         if (Usuario.query.filter_by(username=username).first()):
             return jsonify({"erro": "Usuário já existe"}), 409
 
@@ -32,7 +29,6 @@ def registrar_rotas(application):
         db.session.add(usuario)
         db.session.commit()
 
-        session["usuario_id"] = usuario.id
         return jsonify(usuario.to_dict()), 201
 
     @application.route("/login", methods=["POST"])
@@ -60,52 +56,3 @@ def registrar_rotas(application):
     def perfil():
         usuario = Usuario.query.get(session["usuario_id"])
         return jsonify(usuario.to_dict()), 200
-
-    @application.route("/user/<int:id>", methods=["GET"])
-    @login_required
-    def buscar_usuario(id):
-        usuario = Usuario.query.get(id)
-
-        if (not usuario):
-            return jsonify({"erro": "Usuário não encontrado"}), 404
-
-        return jsonify(usuario.to_dict()), 200
-
-    @application.route("/user/<int:id>", methods=["PUT"])
-    @login_required
-    def atualizar_usuario(id):
-        if (session["usuario_id"] != id):
-            return jsonify({"erro": "Você só pode atualizar o seu próprio usuário"}), 403
-
-        usuario = Usuario.query.get(id)
-
-        if (not usuario):
-            return jsonify({"erro": "Usuário não encontrado"}), 404
-
-        dados = request.get_json(silent=True) or dict()
-
-        if (dados.get("username")):
-            usuario.username = dados["username"]
-
-        if (dados.get("password")):
-            usuario.set_senha(dados["password"])
-
-        db.session.commit()
-        return jsonify(usuario.to_dict()), 200
-
-    @application.route("/user/<int:id>", methods=["DELETE"])
-    @login_required
-    def deletar_usuario(id):
-        if (session["usuario_id"] != id):
-            return jsonify({"erro": "Você só pode deletar o seu próprio usuário"}), 403
-
-        usuario = Usuario.query.get(id)
-
-        if (not usuario):
-            return jsonify({"erro": "Usuário não encontrado"}), 404
-
-        db.session.delete(usuario)
-        db.session.commit()
-        session.pop("usuario_id", None)
-
-        return jsonify({"mensagem": "Usuário removido"}), 200

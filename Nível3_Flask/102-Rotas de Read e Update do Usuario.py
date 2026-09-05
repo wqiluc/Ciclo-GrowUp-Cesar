@@ -92,20 +92,3 @@ def registrar_rotas(application):
 
         db.session.commit()
         return jsonify(usuario.to_dict()), 200
-
-    @application.route("/user/<int:id>", methods=["DELETE"])
-    @login_required
-    def deletar_usuario(id):
-        if (session["usuario_id"] != id):
-            return jsonify({"erro": "Você só pode deletar o seu próprio usuário"}), 403
-
-        usuario = Usuario.query.get(id)
-
-        if (not usuario):
-            return jsonify({"erro": "Usuário não encontrado"}), 404
-
-        db.session.delete(usuario)
-        db.session.commit()
-        session.pop("usuario_id", None)
-
-        return jsonify({"mensagem": "Usuário removido"}), 200

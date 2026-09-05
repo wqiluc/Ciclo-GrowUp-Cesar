@@ -61,6 +61,23 @@ def registrar_rotas(application):
         usuario = Usuario.query.get(session["usuario_id"])
         return jsonify(usuario.to_dict()), 200
 
+    @application.route("/perfil", methods=["PUT"])
+    @login_required
+    def atualizar_perfil():
+        # equivalente ao PUT /user/<id>, mas sem precisar saber o próprio id
+        # nem repetir a checagem de dono: a sessão já diz quem está logado
+        usuario = Usuario.query.get(session["usuario_id"])
+        dados = request.get_json(silent=True) or dict()
+
+        if (dados.get("username")):
+            usuario.username = dados["username"]
+
+        if (dados.get("password")):
+            usuario.set_senha(dados["password"])
+
+        db.session.commit()
+        return jsonify(usuario.to_dict()), 200
+
     @application.route("/user/<int:id>", methods=["GET"])
     @login_required
     def buscar_usuario(id):
