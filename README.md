@@ -9,8 +9,8 @@ RocketSeat + Porto Digital — Formação IA para Devs
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Em_Andamento-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/Progresso-117%2F251_aulas-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/Módulo_Atual-Nível_5-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Progresso-149%2F251_aulas-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Módulo_Atual-Nível_6-111827?style=flat-square" />
   <img src="https://img.shields.io/badge/Versão-1.0.0-111827?style=flat-square" />
   <img src="https://img.shields.io/badge/Licença-MIT-111827?style=flat-square" />
 </p>
@@ -123,7 +123,7 @@ Status local: <b>Concluído ✅</b> — arquivos das aulas em [Nível4_Introduç
 | Desenvolvendo Chatbots | Módulo | 32 aulas | 2h25min |
 | Quiz — Desenvolvimento de Chatbots | Quiz avaliativo (obrigatório) | 6 questões | - |
 
-Status local: <b>Em andamento . . .</b>
+Status local: <b>Concluído ✅</b> — arquivos das aulas em [Nível5_Desenvolvendo_ChatBots](Nível5_Desenvolvendo_ChatBots).
 
 **Destaque:** Watson Assistant, Dialog Flow, GPT
 

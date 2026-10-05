@@ -1,0 +1,25 @@
+QUIZ - DESENVOLVIMENTO DE CHATBOTS (CICLO GROWUP CESAR)
+
+Questão 1:
+Pergunta: Segundo as afirmativas abaixo quais são os principais motivadores da ascensão dos chat bots: 1. Necessidade de atendimento de múltiplos clientes de forma padronizada; 2. Redução do números de funcionários ligados a suporte/atendimento; 3. Resolver todos os casos de atendimento
+Resposta Correta: I e II
+
+Questão 2:
+Pergunta: O que é stemming?
+Resposta Correta: Processo de reduzir palavras à sua forma radical
+
+Questão 3:
+Pergunta: Qual a principal diferença entre Chatbots Question & Answer (Q&A) e Transacional
+Resposta Correta: O Chatbot transacional consegue executar ações trazendo possibilidade de resolução de problemas por meio de integrações com outros sistemas
+
+Questão 4:
+Pergunta: Sobre a criação de chatbots com IBM Watson podemos afirmar que:
+Resposta Correta: IBM Watson serve para criar chatbots de Q&A e Transacionais
+
+Questão 5:
+Pergunta: Considerando a configuração de um chatbot com IBM Watson o que são "actions (ações)" nesse contexto
+Resposta Correta: Uma ação compreende a interação entre um cliente e o assistente sobre uma determinada pergunta ou solicitação
+
+Questão 6:
+Pergunta: Para integrar o IBM Watson com ChatGPT é necessário import um arquivo OpenAPI. O que são os arquivos OpenAPI
+Resposta Correta: Descrevem APIs de forma padronizada, incluindo endpoints, métodos, parâmetros e esquemas de dados.
