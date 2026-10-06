@@ -36,6 +36,17 @@ ao longo de 9 níveis, com certificado ao final<br><br>
   <img src="https://img.shields.io/badge/-Flask-111827?style=flat-square&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/-SQLAlchemy-111827?style=flat-&logo=python&logoColor=red"/>
   <img src="https://img.shields.io/badge/-Markdown-111827?style=flat-square&logo=markdown&logoColor=white"/> <br>
+  <img src="https://img.shields.io/badge/-OpenAI-111827?style=flat-square&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-scikit--learn-111827?style=flat-square&logo=scikitlearn&logoColor=F7931E"/>
+  <img src="https://img.shields.io/badge/-Jupyter-111827?style=flat-square&logo=jupyter&logoColor=F37626"/>
+  <img src="https://img.shields.io/badge/-Streamlit-111827?style=flat-square&logo=streamlit&logoColor=FF4B4B"/>
+  <img src="https://img.shields.io/badge/-IBM_Watson-111827?style=flat-square&logo=ibm&logoColor=0F62FE"/>
+  <img src="https://img.shields.io/badge/-Dialogflow-111827?style=flat-square&logo=dialogflow&logoColor=FF9800"/>
+  <img src="https://img.shields.io/badge/-LangChain-111827?style=flat-square&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-ChromaDB-111827?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Cohere-111827?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Docker-111827?style=flat-square&logo=docker&logoColor=2496ED"/>
+  <img src="https://img.shields.io/badge/-AWS-111827?style=flat-square&logo=amazonwebservices&logoColor=FF9900"/> <br>
   <img src="https://img.shields.io/badge/-Git-111827?style=flat-square&logo=git&logoColor=F05032"/>
   <img src="https://img.shields.io/badge/-GitHub-111827?style=flat-square&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/-GitHub_Desktop-111827?style=flat-square&logo=github&logoColor=purple"/>
@@ -50,6 +61,9 @@ Ciclo-GrowUp-Cesar/
 ├── Nível1_Nodejs <img src="https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=nodedotjs&logoColor=339933" height="18"/><img src="https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=3178C6" height="18"/>/
 ├── Nível2_Rotas_e_HTTP <img src="https://img.shields.io/badge/Fastify-111827?style=flat-square&logoColor=white" height="18"/><img src="https://img.shields.io/badge/Knex-111827?style=flat-square&logoColor=white" height="18"/>/
 ├── Nível3_Flask <img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=3776AB" height="18"/><img src="https://img.shields.io/badge/Flask-111827?style=flat-square&logo=flask&logoColor=white" height="18"/>/
+├── Nível4_IntroduçãoIA <img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=3776AB" height="18"/><img src="https://img.shields.io/badge/scikit--learn-111827?style=flat-square&logo=scikitlearn&logoColor=F7931E" height="18"/>/
+├── Nível5_Desenvolvendo_ChatBots <img src="https://img.shields.io/badge/OpenAI-111827?style=flat-square&logo=openai&logoColor=white" height="18"/><img src="https://img.shields.io/badge/Streamlit-111827?style=flat-square&logo=streamlit&logoColor=FF4B4B" height="18"/>/
+├── Nível6_Otimizando LLMs com RAG <img src="https://img.shields.io/badge/LangChain-111827?style=flat-square&logo=langchain&logoColor=white" height="18"/><img src="https://img.shields.io/badge/AWS-111827?style=flat-square&logo=amazonwebservices&logoColor=FF9900" height="18"/>/
 |
 ├── LICENSE <img src="https://img.shields.io/badge/License-111827?style=flat-square&logo=mit&logoColor=white" height="18"/>
 ├── package.json <img src="https://img.shields.io/badge/npm-111827?style=flat-square&logo=npm&logoColor=CB3837" height="18"/><img src="https://img.shields.io/badge/JSON-111827?style=flat-square&logo=json&logoColor=white" height="18"/>
@@ -116,6 +130,11 @@ Status local: <b>Concluído ✅</b> — arquivos das aulas em [Nível3_Flask](N�
 
 Status local: <b>Concluído ✅</b> — arquivos das aulas em [Nível4_IntroduçãoIA](Nível4_IntroduçãoIA).
 
+**Destaque:** <img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/scikit--learn-111827?style=flat-square&logo=scikitlearn&logoColor=F7931E"/>
+<img src="https://img.shields.io/badge/Jupyter-111827?style=flat-square&logo=jupyter&logoColor=F37626"/>
+<img src="https://img.shields.io/badge/OpenAI_GPTs-111827?style=flat-square&logo=openai&logoColor=white"/>
+
 ### Nível 5 — Desenvolvendo Chatbots
 
 | Conteúdo | Tipo | Aulas / Questões | Carga Horária |
@@ -125,7 +144,11 @@ Status local: <b>Concluído ✅</b> — arquivos das aulas em [Nível4_Introduç
 
 Status local: <b>Concluído ✅</b> — arquivos das aulas em [Nível5_Desenvolvendo_ChatBots](Nível5_Desenvolvendo_ChatBots).
 
-**Destaque:** Watson Assistant, Dialog Flow, GPT
+**Destaque:** <img src="https://img.shields.io/badge/IBM_Watson_Assistant-111827?style=flat-square&logo=ibm&logoColor=0F62FE"/>
+<img src="https://img.shields.io/badge/Dialogflow_CX-111827?style=flat-square&logo=dialogflow&logoColor=FF9800"/>
+<img src="https://img.shields.io/badge/OpenAI_API-111827?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-111827?style=flat-square&logo=streamlit&logoColor=FF4B4B"/>
+<img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=3776AB"/>
 
 ### Nível 6 — Otimizando LLMs com RAG
 
@@ -136,6 +159,16 @@ Status local: <b>Concluído ✅</b> — arquivos das aulas em [Nível5_Desenvolv
 | RAG Avançado | Módulo | 14 aulas | 56min |
 | Deploy RAG | Módulo | 10 aulas | 1h04min |
 | Desafio — LLMs RAG | Desafio prático (opcional) | - | - |
+
+Status local: <b>Em andamento 🚧</b> (falta o quiz) — arquivos das aulas em [Nível6_Otimizando LLMs com RAG](<Nível6_Otimizando LLMs com RAG>).
+
+**Destaque:** <img src="https://img.shields.io/badge/LangChain-111827?style=flat-square&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI_Embeddings-111827?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/ChromaDB-111827?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cohere_Rerank-111827?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-111827?style=flat-square&logo=jupyter&logoColor=F37626"/>
+<img src="https://img.shields.io/badge/Docker-111827?style=flat-square&logo=docker&logoColor=2496ED"/>
+<img src="https://img.shields.io/badge/AWS_Lambda_%2F_ECR_%2F_EC2-111827?style=flat-square&logo=amazonwebservices&logoColor=FF9900"/>
 
 ### Nível 7 — Otimizando LLMs com Fine Tuning
 
