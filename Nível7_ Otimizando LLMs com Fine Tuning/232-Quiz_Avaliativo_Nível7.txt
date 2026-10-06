@@ -1,0 +1,25 @@
+QUIZ - FINE TUNING (CICLO GROWUP CESAR)
+
+Questão 1:
+Pergunta: O que é fine-tuning em modelos de linguagem?
+Resposta Correta: Um ajuste de um modelo pré-treinado para tarefas ou domínios específicos.
+
+Questão 2:
+Pergunta: Sobre fine-tuning quais das afirmativas abaixo não são verdadeiras. 1. O fine-tuning pode ser utilizado em qualquer contexto para especializar modelos devido a seu baixo custo; 2. O fine-tuning pode ajudar um modelo pré-treinado a se especializar em tarefas específicas; 3. O fine-tuning deve ser feito com cuidado para evitar problemas como overfitting; 4. O fine-tuning sempre substitui completamente o conhecimento adquirido no pré-treinamento.
+Resposta Correta: 1 e 4
+
+Questão 3:
+Pergunta: O que é o Amazon Bedrock?
+Resposta Correta: Um serviço de inteligência artificial generativa que permite criar e implementar modelos de IA personalizáveis usando modelos fundacionais (foundation models).
+
+Questão 4:
+Pergunta: Quais das afirmações abaixo não se encaixam a um Small Language Model (SLM). 1. São modelo de linguagem que utilizam centenas de bilhões de parâmetros para resolver diversos tipos de problemas, com grande capacidade para geração de texto; 2. São modelos reduzidos que podem desempenhar muito bem em tarefas específicas quando ajustados para esses temas; 3. SLMs são incapazes de realizar tarefas de linguagem natural porque não possuem dados suficientes para treinamento.
+Resposta Correta: 1 e 3
+
+Questão 5:
+Pergunta: O que é a arquitetura Transformer?
+Resposta Correta: A arquitetura Transformer é uma técnica de redes neurais baseada em um mecanismo de atenção, projetada para lidar com sequências de dados, como texto, sem usar estruturas sequenciais tradicionais.
+
+Questão 6:
+Pergunta: O que é o BERT?
+Resposta Correta: BERT é um modelo de linguagem baseado em redes neurais, desenvolvido pelo Google, para entender melhor o contexto de palavras em frases.
