@@ -9,8 +9,8 @@ RocketSeat + Porto Digital — Formação IA para Devs
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Em_Andamento-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/Progresso-202%2F251_aulas-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/Módulo_Atual-Nível_6-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Progresso-222%2F251_aulas-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Módulo_Atual-Nível_8-111827?style=flat-square" />
   <img src="https://img.shields.io/badge/Versão-1.0.0-111827?style=flat-square" />
   <img src="https://img.shields.io/badge/Licença-MIT-111827?style=flat-square" />
 </p>
@@ -64,6 +64,7 @@ Ciclo-GrowUp-Cesar/
 ├── Nível4_IntroduçãoIA <img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=3776AB" height="18"/><img src="https://img.shields.io/badge/scikit--learn-111827?style=flat-square&logo=scikitlearn&logoColor=F7931E" height="18"/>/
 ├── Nível5_Desenvolvendo_ChatBots <img src="https://img.shields.io/badge/OpenAI-111827?style=flat-square&logo=openai&logoColor=white" height="18"/><img src="https://img.shields.io/badge/Streamlit-111827?style=flat-square&logo=streamlit&logoColor=FF4B4B" height="18"/>/
 ├── Nível6_Otimizando LLMs com RAG <img src="https://img.shields.io/badge/LangChain-111827?style=flat-square&logo=langchain&logoColor=white" height="18"/><img src="https://img.shields.io/badge/AWS-111827?style=flat-square&logo=amazonwebservices&logoColor=FF9900" height="18"/>/
+├── Nível7_ Otimizando LLMs com Fine Tuning <img src="https://img.shields.io/badge/OpenAI-111827?style=flat-square&logo=openai&logoColor=white" height="18"/><img src="https://img.shields.io/badge/AWS_Bedrock-111827?style=flat-square&logo=amazonwebservices&logoColor=FF9900" height="18"/>/
 |
 ├── LICENSE <img src="https://img.shields.io/badge/License-111827?style=flat-square&logo=mit&logoColor=white" height="18"/>
 ├── package.json <img src="https://img.shields.io/badge/npm-111827?style=flat-square&logo=npm&logoColor=CB3837" height="18"/><img src="https://img.shields.io/badge/JSON-111827?style=flat-square&logo=json&logoColor=white" height="18"/>
@@ -84,7 +85,7 @@ Plano de estudo oficial (RocketSeat + Porto Digital) — 9 níveis de conteúdo 
 | CRUD de Tarefas | Desafio prático (opcional) | - | - |
 | Conceitos essenciais do Node.js | Quiz avaliativo (obrigatório) | 10 questões | - |
 
-Status local: <b>Cocluído ✅</b> — arquivos das aulas em [Nível1_Nodejs](Nível1_Nodejs).
+Status local: <b>Concluído ✅</b> — arquivos das aulas em [Nível1_Nodejs](Nível1_Nodejs).
 
 **Destaque:** <img src="https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=nodedotjs&logoColor=339933"/>
 <img src="https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=3178C6"/>
@@ -160,7 +161,7 @@ Status local: <b>Concluído ✅</b> — arquivos das aulas em [Nível5_Desenvolv
 | Deploy RAG | Módulo | 10 aulas | 1h04min |
 | Desafio — LLMs RAG | Desafio prático (opcional) | - | - |
 
-Status local: <b>Em andamento 🚧</b> (falta o quiz) — arquivos das aulas em [Nível6_Otimizando LLMs com RAG](<Nível6_Otimizando LLMs com RAG>).
+Status local: <b>Concluído ✅</b> — arquivos das aulas em [Nível6_Otimizando LLMs com RAG](<Nível6_Otimizando LLMs com RAG>).
 
 **Destaque:** <img src="https://img.shields.io/badge/LangChain-111827?style=flat-square&logo=langchain&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenAI_Embeddings-111827?style=flat-square&logo=openai&logoColor=white"/>
@@ -177,6 +178,13 @@ Status local: <b>Em andamento 🚧</b> (falta o quiz) — arquivos das aulas em 
 | Otimizando LLMs com Fine Tuning | Módulo | 20 aulas | 2h09min |
 | Desafio — LLM Fine Tuning | Desafio prático (opcional) | - | - |
 | Quiz — Fine Tuning | Quiz avaliativo (obrigatório) | 6 questões | - |
+
+Status local: <b>Concluído ✅</b> — arquivos das aulas em [Nível7_ Otimizando LLMs com Fine Tuning](<Nível7_ Otimizando LLMs com Fine Tuning>).
+
+**Destaque:** <img src="https://img.shields.io/badge/OpenAI_Fine--tuning-111827?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS_Bedrock-111827?style=flat-square&logo=amazonwebservices&logoColor=FF9900"/>
+<img src="https://img.shields.io/badge/BERT_(Hugging_Face)-111827?style=flat-square&logo=huggingface&logoColor=FFD21E"/>
+<img src="https://img.shields.io/badge/Google_Colab-111827?style=flat-square&logo=googlecolab&logoColor=F9AB00"/>
 
 ### Nível 8 — Agentes de IA
 
