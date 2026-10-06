@@ -1,0 +1,29 @@
+QUIZ - RAG (CICLO GROWUP CESAR)
+
+Questão 1:
+Pergunta: O que é RAG (Retrieval Augmented Generation)?
+Resposta Correta: Uma abordagem que combina a recuperação de informações de fontes externas com a geração de texto por modelos de linguagem.
+
+Questão 2:
+Pergunta: Qual das listagens abaixo representa os principais componentes do RAG
+Resposta Correta: Dados, LLM, Embedding Model, Vector DB
+
+Questão 3:
+Pergunta: Considerando as possíveis fontes de dados para aplicação de RAG junto a um LLM, quais afirmativas abaixo estão corretas? 1. Podem ser utilizadas tanto imagens quanto textos formatados; 2. Resultados de APIs de outras aplicações podem ser aplicados; 3. Os modelos de LLM entendem textos no seu formato "natural", assim como seres humanos; 4. Normalmente, novas informações são tratadas e salvas em bancos de dados vetoriais.
+Resposta Correta: 1, 2 e 4
+
+Questão 4:
+Pergunta: O que significa "Relevant Chunk" no contexto de modelos de linguagem e IA?
+Resposta Correta: Um fragmento específico de informações altamente relevantes para uma consulta, extraído para auxiliar na geração de respostas.
+
+Questão 5:
+Pergunta: Qual dos seguintes elementos são desafios para arquitetura simples de RAG. 1. Determinar um valor bem ajustado para Chunk size e Top K para determinado tema; 2. Modelo LLM dar muito foco ao documento recuperado, o que pode ocasionar erros caso o documento não possua informações realmente relevantes; 3. Podem ocorrer perdas de informações por diversas razões, seja por configuração de Chunk size e Top K ou mesmo por erro na recuperação de informação
+Resposta Correta: 1, 2 e 3
+
+Questão 6:
+Pergunta: Considerando a explicação sobre Parent Document Retriever qual das afirmações melhor descreve a técnica.
+Resposta Correta: Ela se baseia em usar Chunks menores para precisão e Chunks maiores para definir o contexto
+
+Questão 7:
+Pergunta: Para se fazer um bom Rerank é utilizada a técnica de Cross-Encoder, quais das descrições abaixo melhor define o que é um Cross-Encoder:
+Resposta Correta: Um Cross-Encoder é uma técnica que avalia pares de entrada (como uma consulta e um documento) simultaneamente, concatenando-os e alimentando-os em um modelo como uma rede neural. Ele atribui uma única pontuação de relevância para o par, sendo eficaz para tarefas de rerank devido à sua capacidade de capturar interações detalhadas entre os pares.
