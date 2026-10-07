@@ -211,3 +211,15 @@ Status local: <b>Concluído ✅</b> — arquivos das aulas em [Nível8_Agentes d
 
 <h2 align="center">🎯 Objetivo do Repositório</h2>
 <b>Consolidar uma base sólida em desenvolvimento web e Inteligência Artificial — de Node.js e Flask a RAG, Fine-Tuning, Agentes de IA e Prompt Engineering — ao longo dos 9 níveis do Ciclo GrowUp Cesar (RocketSeat + Porto Digital), aplicando boas práticas e projetos práticos.</b>
+
+<h2 align="center"> 🏆 Certificado de Conclusão <br> 
+<a href="pdf/Certificado_2026.2%20-%20Ciclo%20GrowUpCESAR.pdf"><img src="https://img.shields.io/badge/Certificado-Concluído_✅-111827?style=flat-square&logo=rocket&logoColor=8257E5" /></a> <img src="https://img.shields.io/badge/Ciclo-2026.2-111827?style=flat-square"/></h2>
+
+<p align="center">
+Certificado emitido pela <strong>RocketSeat + Porto Digital</strong> ao concluir os <strong>9 níveis</strong> do Ciclo GrowUp Cesar 2026.2,<br>
+cobrindo Node.js, Flask, ChatBots, RAG, Fine-Tuning, Agentes de IA e Prompt Engineering.
+</p>
+
+<p align="center">
+<img src="./img/certificado_CicloGrowUpCesar_20262.png" alt="Certificado Ciclo GrowUp Cesar 20262" width="490">
+</p>
