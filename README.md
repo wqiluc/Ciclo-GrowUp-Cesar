@@ -9,8 +9,8 @@ RocketSeat + Porto Digital — Formação IA para Devs
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Em_Andamento-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/Progresso-222%2F251_aulas-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/Módulo_Atual-Nível_8-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Progresso-246%2F251_aulas-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Módulo_Atual-Nível_9-111827?style=flat-square" />
   <img src="https://img.shields.io/badge/Versão-1.0.0-111827?style=flat-square" />
   <img src="https://img.shields.io/badge/Licença-MIT-111827?style=flat-square" />
 </p>
@@ -65,6 +65,7 @@ Ciclo-GrowUp-Cesar/
 ├── Nível5_Desenvolvendo_ChatBots <img src="https://img.shields.io/badge/OpenAI-111827?style=flat-square&logo=openai&logoColor=white" height="18"/><img src="https://img.shields.io/badge/Streamlit-111827?style=flat-square&logo=streamlit&logoColor=FF4B4B" height="18"/>/
 ├── Nível6_Otimizando LLMs com RAG <img src="https://img.shields.io/badge/LangChain-111827?style=flat-square&logo=langchain&logoColor=white" height="18"/><img src="https://img.shields.io/badge/AWS-111827?style=flat-square&logo=amazonwebservices&logoColor=FF9900" height="18"/>/
 ├── Nível7_ Otimizando LLMs com Fine Tuning <img src="https://img.shields.io/badge/OpenAI-111827?style=flat-square&logo=openai&logoColor=white" height="18"/><img src="https://img.shields.io/badge/AWS_Bedrock-111827?style=flat-square&logo=amazonwebservices&logoColor=FF9900" height="18"/>/
+├── Nível8_Agentes de IA <img src="https://img.shields.io/badge/CrewAI-111827?style=flat-square&logoColor=white" height="18"/><img src="https://img.shields.io/badge/AutoGen_Studio-111827?style=flat-square&logoColor=white" height="18"/>/
 |
 ├── LICENSE <img src="https://img.shields.io/badge/License-111827?style=flat-square&logo=mit&logoColor=white" height="18"/>
 ├── package.json <img src="https://img.shields.io/badge/npm-111827?style=flat-square&logo=npm&logoColor=CB3837" height="18"/><img src="https://img.shields.io/badge/JSON-111827?style=flat-square&logo=json&logoColor=white" height="18"/>
@@ -193,6 +194,12 @@ Status local: <b>Concluído ✅</b> — arquivos das aulas em [Nível7_ Otimizan
 | Agentes de IA | Módulo | 24 aulas | 2h48min |
 | Desafio IA para Devs — Agentes de IA | Desafio prático (opcional) | - | - |
 | Quiz IA para Devs — Agentes de IA | Quiz avaliativo (obrigatório) | 6 questões | - |
+
+Status local: <b>Concluído ✅</b> — arquivos das aulas em [Nível8_Agentes de IA](<Nível8_Agentes de IA>).
+
+**Destaque:** <img src="https://img.shields.io/badge/CrewAI-111827?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/AutoGen_Studio-111827?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=3776AB"/>
 
 ### Nível 9 — Prompt Engineering
 
