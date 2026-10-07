@@ -8,10 +8,10 @@ RocketSeat + Porto Digital — Formação IA para Devs
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Em_Andamento-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/Progresso-246%2F251_aulas-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Status-Concluído✅-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/Progresso-251%2F251_aulas-111827?style=flat-square" />
   <img src="https://img.shields.io/badge/Módulo_Atual-Nível_9-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/Versão-1.0.0-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Versão-2.0.0-111827?style=flat-square" />
   <img src="https://img.shields.io/badge/Licença-MIT-111827?style=flat-square" />
 </p>
 
