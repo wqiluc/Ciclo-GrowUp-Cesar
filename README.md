@@ -66,6 +66,7 @@ Ciclo-GrowUp-Cesar/
 ├── Nível6_Otimizando LLMs com RAG <img src="https://img.shields.io/badge/LangChain-111827?style=flat-square&logo=langchain&logoColor=white" height="18"/><img src="https://img.shields.io/badge/AWS-111827?style=flat-square&logo=amazonwebservices&logoColor=FF9900" height="18"/>/
 ├── Nível7_ Otimizando LLMs com Fine Tuning <img src="https://img.shields.io/badge/OpenAI-111827?style=flat-square&logo=openai&logoColor=white" height="18"/><img src="https://img.shields.io/badge/AWS_Bedrock-111827?style=flat-square&logo=amazonwebservices&logoColor=FF9900" height="18"/>/
 ├── Nível8_Agentes de IA <img src="https://img.shields.io/badge/CrewAI-111827?style=flat-square&logoColor=white" height="18"/><img src="https://img.shields.io/badge/AutoGen_Studio-111827?style=flat-square&logoColor=white" height="18"/>/
+├── Nível9_Prompt_Engineering <img src="https://img.shields.io/badge/Prompt_Engineering-111827?style=flat-square&logoColor=white" height="18"/><img src="https://img.shields.io/badge/OpenAI-111827?style=flat-square&logo=openai&logoColor=white" height="18"/>/
 |
 ├── LICENSE <img src="https://img.shields.io/badge/License-111827?style=flat-square&logo=mit&logoColor=white" height="18"/>
 ├── package.json <img src="https://img.shields.io/badge/npm-111827?style=flat-square&logo=npm&logoColor=CB3837" height="18"/><img src="https://img.shields.io/badge/JSON-111827?style=flat-square&logo=json&logoColor=white" height="18"/>
