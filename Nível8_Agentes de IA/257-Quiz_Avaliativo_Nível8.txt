@@ -1,0 +1,29 @@
+QUIZ - AGENTES DE IA (CICLO GROWUP CESAR)
+
+Questão 1:
+Pergunta: O que é um agente de IA?
+Resposta Correta: Um sistema que usa um modelo de linguagem para raciocinar, decidir e executar ações (por meio de ferramentas) de forma autônoma para alcançar um objetivo.
+
+Questão 2:
+Pergunta: Qual a principal vantagem de um sistema multi-agentes em relação a um único agente?
+Resposta Correta: Dividir um problema complexo entre agentes especializados, cada um com seu papel, objetivo e ferramentas, que colaboram entre si para chegar ao resultado.
+
+Questão 3:
+Pergunta: No CrewAI, quais são os principais componentes para construir uma solução com agentes?
+Resposta Correta: Agents (quem executa), Tasks (o que deve ser feito), Tools (ferramentas usadas pelos agentes) e Crew (a equipe que organiza agentes e tarefas e define o processo de execução).
+
+Questão 4:
+Pergunta: No CrewAI, quais atributos definem a "personalidade" e o comportamento de um Agent?
+Resposta Correta: role (papel), goal (objetivo) e backstory (história/contexto).
+
+Questão 5:
+Pergunta: Para que servem as Tools em um agente de IA?
+Resposta Correta: Para permitir que o agente execute ações e acesse informações externas, como APIs, buscas na web, cotações de ações e arquivos, indo além do conhecimento do modelo.
+
+Questão 6:
+Pergunta: O que é o AutoGen Studio?
+Resposta Correta: Uma interface visual (low-code) da Microsoft, construída sobre o framework AutoGen, para criar, configurar e testar agentes e workflows multi-agentes.
+
+Questão 7:
+Pergunta: No AutoGen, qual o papel do UserProxyAgent e do Group Chat?
+Resposta Correta: O UserProxyAgent representa o usuário na conversa (envia o pedido e pode executar código), e o Group Chat coordena a conversa entre vários agentes, decidindo quem fala a cada rodada.
